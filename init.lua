@@ -1,0 +1,7 @@
+require('plugins')
+require('lsp')
+require('setup.autopairs')
+require('setup.cmp')
+require('setup.onedarkpro')
+require('setup.treesitter')
+require('colorscheme')
