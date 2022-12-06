@@ -1,4 +1,5 @@
 require('plugins')
+require('options')
 require('lsp')
 require('setup.autopairs')
 require('setup.cmp')
