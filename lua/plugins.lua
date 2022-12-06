@@ -18,6 +18,8 @@ return require('packer').startup(function(use)
 
   -- LSP
   use 'neovim/nvim-lspconfig'
+  use 'nvim-lua/plenary.nvim'
+  use 'jose-elias-alvarez/null-ls.nvim'
 
   -- One Dark Pro
   use 'olimorris/onedarkpro.nvim'
